@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>MKH Blog</title>
+        <link>https://mkh-site.netlify.app/</link>
+        <description>MKH Blog</description>
+        <lastBuildDate>Tue, 25 Mar 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Pengenalan]]></title>
+            <link>https://mkh-site.netlify.app/intro</link>
+            <guid>https://mkh-site.netlify.app/intro</guid>
+            <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello everyone -]]></description>
+            <content:encoded><![CDATA[<p>Hello everyone -</p>
+<p>This is Muhamad Khadaffy, the creator of this blog.
+What you are visiting right now is my personal blog, Here i express myself, What i have made, I write it here.</p>]]></content:encoded>
+            <category>intro</category>
+            <category>Hello</category>
+        </item>
+        <item>
+            <title><![CDATA[How I Learned Command Line]]></title>
+            <link>https://mkh-site.netlify.app/how-i-learned-command-line</link>
+            <guid>https://mkh-site.netlify.app/how-i-learned-command-line</guid>
+            <pubDate>Fri, 15 Jun 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[Remember that feeling of staring at a black screen with blinking text, feeling completely lost? Yeah, that was me, facing the command line for the first time. It looked intimidating, like some ancient language only understood by tech wizards. I used to think it was just for "hackers" and those who lived and breathed code. But guess what? I was wrong. So, so wrong.]]></description>
+            <content:encoded><![CDATA[<p>Remember that feeling of staring at a black screen with blinking text, feeling completely lost? Yeah, that was me, facing the command line for the first time. It looked intimidating, like some ancient language only understood by tech wizards. I used to think it was just for "hackers" and those who lived and breathed code. But guess what? I was wrong. So, so wrong.</p>
+<p>I started this journey because I was tired. Tired of feeling like my computer was dictating my workflow. I wanted more control, more efficiency. And I'd heard whispers that the command line was the key to unlocking that. Turns out, those whispers were spot on. Learning the command line opened up a whole new world, a world where I could automate tasks, manipulate files, and more.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="so-lets-begin">So, let's begin<a href="https://mkh-site.netlify.app/how-i-learned-command-line#so-lets-begin" class="hash-link" aria-label="Direct link to So, let's begin" title="Direct link to So, let's begin">​</a></h2>
+<p>Let’s be honest, my initial encounters were…rough. The sheer number of commands felt overwhelming. <code>ls</code>, <code>cd</code>, <code>mkdir</code>, <code>rm</code> – they were just random letters at first. And the syntax? Don’t even get me started. Errors popped up like mushrooms after a rainstorm, and I felt like I was constantly breaking things.</p>
+<p>But I persevered, and here’s what helped me:</p>
+<ul>
+<li>Online Tutorials and Courses – <a href="https://www.codecademy.com/" target="_blank" rel="noopener noreferrer"><strong>Codecademy</strong></a> and <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer"><strong>freeCodeCamp</strong></a> were great. They broke down complex concepts into digestible chunks.</li>
+<li>Visual explanations are very helpful – found this on YouTube. I found a channel that walked me through the commands step by step.</li>
+<li>"The Linux Command Line" by William Shotts – This book became my trusty companion, a comprehensive guide to navigating the command line.</li>
+<li>Stack Overflow – This site became my best friend.</li>
+<li>Then, I practice. Even 20 mins a day made a big difference.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="heres-a-breakdown-of-my-learning-strategies">Here's a breakdown of my learning strategies:<a href="https://mkh-site.netlify.app/how-i-learned-command-line#heres-a-breakdown-of-my-learning-strategies" class="hash-link" aria-label="Direct link to Here's a breakdown of my learning strategies:" title="Direct link to Here's a breakdown of my learning strategies:">​</a></h2>
+<ul>
+<li>Start with the basics: Mastering <code>ls</code>, <code>cd</code>, <code>mkdir</code>, <code>rm</code>, and <code>pwd</code> is <em>crucial</em>.</li>
+<li>Consistency is key. Even short sessions add up.</li>
+<li>Create a cheat sheet (Keep your frequently used commands handy).</li>
+<li>Understand the concepts (Don't just memorize, understand why the commands work).</li>
+<li>Learn about file paths – Navigating the file system is essential.</li>
+</ul>
+<p>When I finally understood how pipes and redirects worked, it felt like unlocking a secret level in a video game.</p>
+<p>"<strong>So, where does all this command-line knowledge actually take you?</strong> For me, it's woven into my daily workflow. I can manage files and directories, moving, renaming, and deleting with simple commands, saving me tons of time. Automating repetitive tasks with custom scripts has been a game-changer, freeing me up to focus on more creative work. When it comes to version control with Git, the command line is my best friend, allowing for precise control. Connecting to remote servers via SSH is seamless, letting me manage projects from anywhere. And for web development, it's indispensable—running servers, building projects, and deploying code becomes far more efficient. For example, if I need to quickly search for specific text within files, I use <code>grep -r "example" *</code> to find all instances of 'example' in my current directory and its subdirectories. Or when I need to locate specific files, <code>find . -name "*.txt"</code> helps me find all text files within a given directory. And <code>sed 's/oldtext/newtext/g' file.txt</code> allows for quick text file editing. These are just snippets of the power the command line gives you."</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-quick-tips">A Quick Tips<a href="https://mkh-site.netlify.app/how-i-learned-command-line#a-quick-tips" class="hash-link" aria-label="Direct link to A Quick Tips" title="Direct link to A Quick Tips">​</a></h2>
+<p>If you're just starting your command-line journey, don't feel overwhelmed. A great way to begin is by setting up a virtual machine, providing a safe sandbox to experiment without fear of damaging your system. Remember that the <code>man</code> command is your best friend, offering detailed documentation for any command you encounter. And don't hesitate to reach out for help online; the community is incredibly supportive and willing to guide you. Finally, personalize your terminal to make it visually appealing. A customized terminal can make the learning process more enjoyable and less intimidating. Start small, practice consistently, and you'll be amazed at how quickly you progress.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="--conclusion">- Conclusion<a href="https://mkh-site.netlify.app/how-i-learned-command-line#--conclusion" class="hash-link" aria-label="Direct link to - Conclusion" title="Direct link to - Conclusion">​</a></h2>
+<p>Learning the command line was one of the best investments I've made in my tech skills. It's boosted my productivity, given me more control over my computer, and opened up a world of possibilities.</p>
+<p>So, I encourage you to start your own journey. Open your terminal and type ls. See what happens! Find a basic online tutorial and follow along. You might be surprised at how quickly you pick it up.</p>
+<p>And remember, the command line isn’t just for tech wizards. It’s for anyone who wants to unlock the full potential of their computer.</p>]]></content:encoded>
+            <category>command line</category>
+            <category>cmd</category>
+            <category>cli</category>
+        </item>
+    </channel>
+</rss>

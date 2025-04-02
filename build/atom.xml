@@ -60,6 +60,43 @@
         <category label="beautifulsoup" term="beautifulsoup"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Exploring TUI & CLA]]></title>
+        <id>https://mkh.netlify.app/exploring-tui-and-cla</id>
+        <link href="https://mkh.netlify.app/exploring-tui-and-cla"/>
+        <updated>2018-10-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TUI]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Midnight_Commander_%282005%29_en.png" alt="TUI" class="img_ev3q"></p>
+<center><em>Image from wiki</em></center>
+<br>
+<p>A TUI is a user interface that relies solely on text-based elements, such as characters and symbols, to interact with the user. It's often displayed in a terminal or console window, where users input commands and receive textual output.</p>
+<p>CLAs, on the other hand, are programs designed to be run from a command-line interpreter, like the terminal or command prompt. While not all CLAs have elaborate TUIs, many leverage text-based elements to provide a more interactive and user-friendly experience within the command-line environment.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-use-tuis-and-clas">Why use TUIs and CLAs?<a href="https://mkh.netlify.app/exploring-tui-and-cla#why-use-tuis-and-clas" class="hash-link" aria-label="Direct link to Why use TUIs and CLAs?" title="Direct link to Why use TUIs and CLAs?">​</a></h2>
+<ol>
+<li>TUIs and CLAs are often faster and more responsive than their GUI counterparts, especially for tasks that don't require complex visual elements.</li>
+<li>They provide direct access to the underlying operating system, enabling users to perform intricate operations and automate tasks with greater control.</li>
+<li>TUIs can be more accessible to users with visual impairments, as screen readers can easily interpret and vocalize text-based information.</li>
+<li>For many, there's a certain charm and satisfaction in mastering the command line and navigating a well-designed TUI.</li>
+</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="examples-of-tuis-and-clas">Examples of TUIs and CLAs:<a href="https://mkh.netlify.app/exploring-tui-and-cla#examples-of-tuis-and-clas" class="hash-link" aria-label="Direct link to Examples of TUIs and CLAs:" title="Direct link to Examples of TUIs and CLAs:">​</a></h2>
+<ol>
+<li>Git (Version Control System).</li>
+<li>Vim and Nano (Text editors).</li>
+<li>Htop (System monitoring tool khadaffy).</li>
+<li>MySQL and PostgreSQL (Database management system).</li>
+<li>And many programming languages provide command-line tools for building, testing, and debugging code.</li>
+</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusion">Conclusion<a href="https://mkh.netlify.app/exploring-tui-and-cla#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
+<p>In an era dominated by GUIs, TUIs and CLAs may seem like relics of the past. However, their efficiency, flexibility, and directness make them valuable tools for both developers and everyday users. Whether you're a seasoned developer or a curious newcomer, exploring the world of TUIs and CLAs can unlock new levels of power and control over your computing environment.</p>]]></content>
+        <author>
+            <name>Muhamad Khadaffy</name>
+            <uri>https://github.com/reighpuy</uri>
+        </author>
+        <category label="tui" term="tui"/>
+        <category label="cla" term="cla"/>
+        <category label="text-based-ui" term="text-based-ui"/>
+        <category label="command-line application" term="command-line application"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Base64 Encoder in Python]]></title>
         <id>https://mkh.netlify.app/base64-encoder-in-python</id>
         <link href="https://mkh.netlify.app/base64-encoder-in-python"/>

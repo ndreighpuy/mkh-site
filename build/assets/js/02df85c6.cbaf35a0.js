@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2729],{8776:t=>{t.exports=JSON.parse('{"tag":{"label":"tui","permalink":"/tags/tui","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/tui","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

@@ -4,10 +4,142 @@
         <title>MKH Blog</title>
         <link>https://mkh.netlify.app/</link>
         <description>MKH Blog</description>
-        <lastBuildDate>Sat, 24 Nov 2018 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Apr 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Tugas SPK ke-4]]></title>
+            <link>https://mkh.netlify.app/tugas-spk-w4</link>
+            <guid>https://mkh.netlify.app/tugas-spk-w4</guid>
+            <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Soal Nomor 1]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="soal-nomor-1">Soal Nomor 1<a href="https://mkh.netlify.app/tugas-spk-w4#soal-nomor-1" class="hash-link" aria-label="Direct link to Soal Nomor 1" title="Direct link to Soal Nomor 1">​</a></h2>
+<p>Adi berulang tahun yang ke-17, Kedua orang tuanya janji untuk membelikan sepeda motor sesuai yang di inginkan Adi. Adi memiliki pilihan yaitu motor Ninja, Tiger dan Vixsion . Adi memiliki Kriteria dalam pemilihan sepeda motor yang nantinya akan dia beli yaitu : sepeda motornya memiliki desain yang bagus, berkualitas serta irit dalam bahan bakar.</p>
+<p>(Kerjakan kasus diatas dengan menggunakan metode AHP (Analytic Hierarchical Proces) dengan Batasan kriteria).</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="penyelesaian-soal-nomor-1">Penyelesaian Soal Nomor 1<a href="https://mkh.netlify.app/tugas-spk-w4#penyelesaian-soal-nomor-1" class="hash-link" aria-label="Direct link to Penyelesaian Soal Nomor 1" title="Direct link to Penyelesaian Soal Nomor 1">​</a></h3>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="tahap-pertama">Tahap Pertama<a href="https://mkh.netlify.app/tugas-spk-w4#tahap-pertama" class="hash-link" aria-label="Direct link to Tahap Pertama" title="Direct link to Tahap Pertama">​</a></h4>
+<p>Menentukan bobot dari masing-masing kriteria:</p>
+<ul>
+<li>Desain lebih penting <code>2 kali</code> dari pada Irit.</li>
+<li>Desain lebih penting <code>3 kali</code> dari pada Kualitas.</li>
+<li>Irit lebih penting <code>1.5 kali</code> dari pada Kualitas.</li>
+</ul>
+<p><strong>Pair Comparation Matrix</strong></p>
+<table><thead><tr><th>Kriteria</th><th>Desain</th><th>Irit</th><th>Kualitas</th><th>Priority Vector</th></tr></thead><tbody><tr><td>Desain</td><td>1</td><td>2</td><td>3</td><td>0,5455</td></tr><tr><td>Irit</td><td>0,5</td><td>1</td><td>1,5</td><td>0,2727</td></tr><tr><td>Kualitas</td><td>0,333</td><td>0,667</td><td>1</td><td>0,1818</td></tr><tr><td>Jumlah</td><td>1,833</td><td>3,667</td><td>5,5</td><td>1,0000</td></tr><tr><td>Pricipal Eigen Value ( Pricipal Eigen Value (λmax)</td><td></td><td></td><td></td><td>3,00</td></tr><tr><td>Consistency Index (CI)</td><td></td><td></td><td></td><td>0</td></tr><tr><td>Consistency Ratio (CR)</td><td></td><td></td><td></td><td>0,0%</td></tr></tbody></table>
+<p>Dari tabel diatas, Priority Vector (kolom paling kanan) menunjukan bobot dari masing-masing
+kriteria, jadi dalam hal ini Desain merupakan bobot tertinggi/terpenting menurut Adi, disusul Irit dan
+yang terakhir adalah Kualitas.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="langkah-pengerjaan-tabel">Langkah Pengerjaan Tabel<a href="https://mkh.netlify.app/tugas-spk-w4#langkah-pengerjaan-tabel" class="hash-link" aria-label="Direct link to Langkah Pengerjaan Tabel" title="Direct link to Langkah Pengerjaan Tabel">​</a></h3>
+<ol>
+<li>
+<p>Untuk perbandingan antara masing – masing kriteria berasal dari bobot yang telah di berikan Adi pertama kali.</p>
+</li>
+<li>
+<p>Sedangkan untuk Baris jumlah, merupakan hasil penjumalahan vertikal dari masing-masing kriteria</p>
+</li>
+<li>
+<p>Untuk <code>Priority Vector</code> di dapat dari hasil penjumlahan dari semua sel disebelah Kirinya (pada baris yang sama) setelah terlebih dahulu dibagi dengan Jumlah yang ada dibawahnya, kemudian hasil penjumlahan tersebut dibagi dengan angka 3.</p>
+</li>
+<li>
+<p>Untuk mencari <strong>Principal Eigen Value (λmax)</strong> Rumusnya adalah menjumlahkan hasil perkalian antara sel pada baris jumlah dan sel pada kolom <code>Priority Vector</code>.</p>
+</li>
+<li>
+<p>Menghitung Consistency Index (CI) dengan rumus:</p>
+<div class="language-html codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-html codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">CI = (λmax-n)/(n-1)</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+</li>
+<li>
+<p>Sedangkan untuk menghitung nilai CR menggunakan rumus:</p>
+<div class="language-html codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-html codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">CR = CI/RI</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p>nilai RI didapat dari:</p>
+<table><thead><tr><th>n</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th></tr></thead><tbody><tr><td>RI</td><td>0</td><td>0</td><td>5,8</td><td>0,9</td><td>1,12</td><td>1,24</td><td>1,32</td><td>1,41</td><td>1,45</td><td>1,49</td></tr></tbody></table>
+<p>Jadi untuk <code>n=3</code>, <strong>RI=0.58</strong>. Jika hasil perhitungan CR lebih kecil atau sama dengan <code>10%</code>, ketidak konsistenan masih bisa diterima, sebaliknya jika lebih besar dari <code>10%</code>, tidak bisa diterima.</p>
+</li>
+</ol>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="tahap-kedua">Tahap Kedua<a href="https://mkh.netlify.app/tugas-spk-w4#tahap-kedua" class="hash-link" aria-label="Direct link to Tahap Kedua" title="Direct link to Tahap Kedua">​</a></h4>
+<p>Kebetulan teman Adi memiliki teman yang memiliki motor yang sesuai dengan pilihan Adi. Setelah Adi mencoba motor temannya tersebut Adi memberikan penilaian (disebut dengan <strong>Pair-wire Comparation</strong>)</p>
+<hr>
+<ul>
+<li>Desain lebih penting <code>2 kali</code> dari pada Irit.</li>
+<li>Desain lebih penting <code>3 kali</code> dari pada Kualitas.</li>
+<li>Irit lebih penting <code>1.5 kali</code> dari pada kualitas.</li>
+</ul>
+<hr>
+<ul>
+<li>Ninja <code>4 kali</code> desainnya lebih baik daripada Tiger.</li>
+<li>Ninja <code>3 kali</code> desainnya lebih baik dari pada Vixsion.</li>
+<li>Tiger <code>1/2 kali</code> desainnya lebih baik dari pada Vixsion.</li>
+</ul>
+<hr>
+<ul>
+<li>Ninja <code>1/3 kali</code> lebih irit daripada Tiger.</li>
+<li>Ninja <code>1/4 kali</code> lebih irit dari pada Vixsion.</li>
+<li>Tiger <code>1/2 kali</code> lebih irit dari pada Vixsion.</li>
+</ul>
+<hr>
+<ul>
+<li>Ninja <code>1/3 kali</code> lebih berkualitas daripada Tiger.</li>
+<li>Ninja <code>1/4 kali</code> lebih berkualitas dari pada vixsion.</li>
+<li>Tiger <code>1/2 kali</code> lebih berkualitas dari pada Vixsion.</li>
+</ul>
+<hr>
+<p>Berdasarkan penilaian tersebut maka dapat dibuatkan tabel (disebut <strong>Pair-wire Comparation Matrix</strong>)</p>
+<table><thead><tr><th>Desain</th><th>Ninja</th><th>Tiger</th><th>Vixsion</th><th>Priority Vector</th></tr></thead><tbody><tr><td>Ninja</td><td>1</td><td>4</td><td>3</td><td>0,6233</td></tr><tr><td>Tiger</td><td>0,25</td><td>1</td><td>0,5</td><td>0,1373</td></tr><tr><td>Vixsion</td><td>0,333</td><td>2</td><td>1</td><td>0,2394</td></tr><tr><td>Jumlah</td><td>1,583</td><td>7</td><td>4,5</td><td>1,0000</td></tr><tr><td>Pricipal Eigen Value</td><td></td><td></td><td></td><td>3,025</td></tr><tr><td>Consistency Index (CI)</td><td></td><td></td><td></td><td>0,01</td></tr><tr><td>Consistency Ratio (CR)</td><td></td><td></td><td></td><td>2,2%</td></tr></tbody></table>
+<table><thead><tr><th>Irit</th><th>Ninja</th><th>Tiger</th><th>Vixsion</th><th>Priority Vector</th></tr></thead><tbody><tr><td>Ninja</td><td>1</td><td>0,333</td><td>0,25</td><td>0,1226</td></tr><tr><td>Tiger</td><td>3</td><td>1</td><td>0,5</td><td>0,3202</td></tr><tr><td>Vixsion</td><td>4</td><td>2</td><td>1</td><td>0,5572</td></tr><tr><td>Jumlah</td><td>8</td><td>3,333</td><td>1,75</td><td>1,0000</td></tr><tr><td>Pricipal Eigen Value</td><td></td><td></td><td></td><td>3,023</td></tr><tr><td>Consistency Index (CI)</td><td></td><td></td><td></td><td>0,01</td></tr><tr><td>Consistency Ratio (CR)</td><td></td><td></td><td></td><td>2,0%</td></tr></tbody></table>
+<table><thead><tr><th>Kualitas</th><th>Ninja</th><th>Tiger</th><th>Vixsion</th><th>Priority Vector</th></tr></thead><tbody><tr><td>Ninja</td><td>1</td><td>3</td><td>5</td><td>0,6479</td></tr><tr><td>Tiger</td><td>1/3</td><td>1</td><td>2</td><td>0,2299</td></tr><tr><td>Vixsion</td><td>1/5</td><td>1/2</td><td>1</td><td>0,1222</td></tr><tr><td>Jumlah</td><td>1,533</td><td>4,5</td><td>8</td><td>1</td></tr><tr><td>Pricipal Eigen Value</td><td></td><td></td><td></td><td>3,0054</td></tr><tr><td>Consistency Index (CI)</td><td></td><td></td><td></td><td>0,0027</td></tr><tr><td>Consistency Ratio (CR)</td><td></td><td></td><td></td><td>0,0465%</td></tr></tbody></table>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="tahap-ketiga">Tahap Ketiga<a href="https://mkh.netlify.app/tugas-spk-w4#tahap-ketiga" class="hash-link" aria-label="Direct link to Tahap Ketiga" title="Direct link to Tahap Ketiga">​</a></h4>
+<p>Setelah mendapatkan bobot untuk ketiga kriteria dan skor untuk masing-masing kriteria bagi ketiga motor pilihannya, maka langkah terakhir adalah menghitung total skor untuk ketiga motor tersebut. Untuk itu Adi akan merangkum semua hasil penilaiannya tersebut dalam bentuk tabel yang disebut <code>Overall Composite Weight</code>.</p>
+<table><thead><tr><th>Overall composit weight</th><th>weight</th><th>Ninja</th><th>Tiger</th><th>Vixsion</th></tr></thead><tbody><tr><td>Desain</td><td>0,5455</td><td>0,6233</td><td>0,1373</td><td>0,2394</td></tr><tr><td>Irit</td><td>0,2727</td><td>0,1226</td><td>0,3202</td><td>0,5572</td></tr><tr><td>Kualitas</td><td>0,1818</td><td>0,0090</td><td>0,9009</td><td>0,0901</td></tr><tr><td>Composite Weight</td><td></td><td>0,3751</td><td>0,3260</td><td>0,2989</td></tr></tbody></table>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="cara-pengerjaan-overall-composite-weight">Cara pengerjaan Overall Composite weight<a href="https://mkh.netlify.app/tugas-spk-w4#cara-pengerjaan-overall-composite-weight" class="hash-link" aria-label="Direct link to Cara pengerjaan Overall Composite weight" title="Direct link to Cara pengerjaan Overall Composite weight">​</a></h3>
+<ul>
+<li>Kolom <code>Weight</code> diambil dari kolom <code>Priority Vektor</code> dalam matrix <code>Kriteria</code>.</li>
+<li>Ketiga kolom lainnya (<code>Ninja</code>, <code>Tiger</code> dan <code>Vixsion</code>) diambil dari kolom <code>Priority Vector</code> ketiga matrix <code>Desain</code>, <code>Irit</code> dan <code>Kualitas</code>.</li>
+<li>Baris <code>Composite Weight</code> diperoleh dari jumlah hasil perkalian sel diatasnya dengan <code>weight</code>.</li>
+<li>Berdasarkan table di atas maka dapat di ambil kesimpulan bahwa yang memiliki skor paling tinggi adalah <strong>Ninja</strong> yaitu <code>0,3751</code>, disusul <strong>Tiger</strong> dengan skor <code>0,3260</code> dan yang terakhir adalah <strong>Vixsion</strong> dengan skor <code>0,2989</code>. Sehingga motor yang akan dibeli Adi adalah <strong>Ninja</strong>.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="soal-nomor-2">Soal Nomor 2<a href="https://mkh.netlify.app/tugas-spk-w4#soal-nomor-2" class="hash-link" aria-label="Direct link to Soal Nomor 2" title="Direct link to Soal Nomor 2">​</a></h2>
+<p>Terdapat suatu permasalahan dalam menentukan pemilihan tas wanita dengan 3 kriteria yaitu:</p>
+<ol>
+<li>Harga (merk).</li>
+<li>Model (Desain dan Ukuran).</li>
+<li>Kualitas (Bahan yang digunakan).</li>
+</ol>
+<p>Dan terdapat 3 alternatif yaitu:</p>
+<ol>
+<li>Charles &amp; Keith</li>
+<li>Elizabeth</li>
+<li>Sophie Martin</li>
+</ol>
+<p><img decoding="async" loading="lazy" src="https://yunniastuti.wordpress.com/wp-content/uploads/2015/01/11.png?w=325" alt="Gambar soal nomor 2" class="img_ev3q"></p>
+<p>Ketentuan dari kriteria diatas adalah:</p>
+<ol>
+<li><code>Model 4x</code> lebih penting dari pada Harga.</li>
+<li><code>Model 3x</code> lebih penting dari pada Kualitas.</li>
+<li><code>Kualitas 2x</code> lebih penting dari Harga.</li>
+</ol>
+<p>Di lihat dari kriteria harga:</p>
+<ol>
+<li>Harga Charles &amp; keith <code>5x lebih tinggi</code> dari Sophie martin.</li>
+<li>Harga Charles &amp; keith <code>3x lebih tinggi</code> dari Elizabeth.</li>
+<li>Harga Elizabeth <code>2x lebih tinggi</code> dari Sophie Martin.</li>
+</ol>
+<p>Di lihat dari kriteria model:</p>
+<ol>
+<li>Desain Charles &amp; keith <code>4x lebih elegan</code> dari Sophie Martin.</li>
+<li>Desain Charles &amp; keith <code>3x lebih elegan</code> dari Elizabeth.</li>
+<li>Desain Elizabeth <code>2x lebih elegan</code> dari Sophie Martin.</li>
+</ol>
+<p>Di lihat dari kriteria Kualitas:</p>
+<ol>
+<li>Kualitas Charles &amp; keith <code>3x lebih bagus</code> dari Sophie Martin.</li>
+<li>Kualitas Charles &amp; keith <code>2x lebih bagus</code> dari Elizabeth.</li>
+<li>Kualitas Elizabeth <code>2x lebih bagus</code> dari Sophie Martin.</li>
+</ol>
+<p>Dari kasus diatas, tentukan pemilihan sepatu yang paling diminati oleh pelanggan.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="penyelesaian-soal-nomor-2">Penyelesaian Soal Nomor 2<a href="https://mkh.netlify.app/tugas-spk-w4#penyelesaian-soal-nomor-2" class="hash-link" aria-label="Direct link to Penyelesaian Soal Nomor 2" title="Direct link to Penyelesaian Soal Nomor 2">​</a></h3>]]></content:encoded>
+            <category>spk</category>
+            <category>ahp</category>
+        </item>
         <item>
             <title><![CDATA[Web Scraping using Python]]></title>
             <link>https://mkh.netlify.app/web-scraping-using-python</link>

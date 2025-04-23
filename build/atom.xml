@@ -135,7 +135,50 @@ yang terakhir adalah Kualitas.</p>
 <li>Kualitas Elizabeth <code>2x lebih bagus</code> dari Sophie Martin.</li>
 </ol>
 <p>Dari kasus diatas, tentukan pemilihan sepatu yang paling diminati oleh pelanggan.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="penyelesaian-soal-nomor-2">Penyelesaian Soal Nomor 2<a href="https://mkh.netlify.app/tugas-spk-w4#penyelesaian-soal-nomor-2" class="hash-link" aria-label="Direct link to Penyelesaian Soal Nomor 2" title="Direct link to Penyelesaian Soal Nomor 2">​</a></h3>]]></content>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="penyelesaian-soal-nomor-2">Penyelesaian Soal Nomor 2<a href="https://mkh.netlify.app/tugas-spk-w4#penyelesaian-soal-nomor-2" class="hash-link" aria-label="Direct link to Penyelesaian Soal Nomor 2" title="Direct link to Penyelesaian Soal Nomor 2">​</a></h3>
+<ol>
+<li><code>Model 4x</code> lebih penting dari pada Harga.</li>
+<li><code>Model 3x</code> lebih penting dari pada Kualitas.</li>
+<li><code>Kualitas 2x</code> lebih penting dari Harga.
+<img decoding="async" loading="lazy" src="https://media.discordapp.net/attachments/1231244153971539996/1364455798813491292/tabel-1.png?ex=6809bbfc&amp;is=68086a7c&amp;hm=3e8d2b6db976a15ea3eaade30867196dfa385c98b4db23d59aa254d4ca902187&amp;=&amp;format=webp&amp;quality=lossless" alt="Tabel-1" class="img_ev3q"></li>
+</ol>
+<p>Di lihat dari kriteria harga:</p>
+<ol>
+<li>Harga Charles &amp; keith <code>5x lebih tinggi</code> dari Sophie martin.</li>
+<li>Harga Charles &amp; keith <code>3x lebih tinggi</code> dari Elizabeth.</li>
+<li>Harga Elizabeth <code>2x lebih tinggi</code> dari Sophie Martin.
+<img decoding="async" loading="lazy" src="https://media.discordapp.net/attachments/1231244153971539996/1364455798431813652/tabel-2.png?ex=6809bbfc&amp;is=68086a7c&amp;hm=eff864ed161450441ec68435d98bc35795e19ca3fdf4c6703668fc83de7e0d96&amp;=&amp;format=webp&amp;quality=lossless" alt="Tabel-2" class="img_ev3q"></li>
+</ol>
+<p>Di lihat dari kriteria model:</p>
+<ol>
+<li>Desain Charles &amp; keith <code>4x lebih elegan</code> dari Sophie Martin.</li>
+<li>Desain Charles &amp; keith <code>3x lebih elegan</code> dari Elizabeth.</li>
+<li>Desain Elizabeth <code>2x lebih elegan</code> dari Sophie Martin.
+<img decoding="async" loading="lazy" src="https://media.discordapp.net/attachments/1231244153971539996/1364455798196928543/tabel-3.png?ex=6809bbfc&amp;is=68086a7c&amp;hm=cb5b03b9334b1fa5589478ba8f0a5504325360c43a16d0341683528c513a8657&amp;=&amp;format=webp&amp;quality=lossless" alt="Tabel-3" class="img_ev3q"></li>
+</ol>
+<p>Di lihat dari kriteria Kualitas:</p>
+<ol>
+<li>Kualitas Charles &amp; keith <code>3x lebih bagus</code> dari Sophie Martin.</li>
+<li>Kualitas Charles &amp; keith <code>2x lebih bagus</code> dari Elizabeth.</li>
+<li>Kualitas Elizabeth <code>2x lebih bagus</code> dari Sophie Martin.
+<img decoding="async" loading="lazy" src="https://media.discordapp.net/attachments/1231244153971539996/1364455797945401434/tabel-4.png?ex=6809bbfc&amp;is=68086a7c&amp;hm=115a93c6eed7ca2e1dcffae1bd2df7c2810a7cd2f81e56365189d6dd8692a9f0&amp;=&amp;format=webp&amp;quality=lossless" alt="Tabel-4" class="img_ev3q"></li>
+</ol>
+<p>Berikut adalah pohon dengan bobot pada kriteria dan alternatifnya:
+<img decoding="async" loading="lazy" src="https://media.discordapp.net/attachments/1231244153971539996/1364455797727432754/chart.png?ex=6809bbfc&amp;is=68086a7c&amp;hm=2f83c67cfcbf570ed450b781eaea6d0b8911f052302657962a55ff6f6020a995&amp;=&amp;format=webp&amp;quality=lossless" alt="Bobot" class="img_ev3q"></p>
+<p>Tahap terakhir menentukan urutan pada pilihan alternatif dengan cara:</p>
+<div class="language-html codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-html codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">EV Alternatif1 = (EV Kriteria1 x EV Alternatif1 kriteria1) + (EV Kriteria2 x EV</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Alternatif1 kriteria2) + (EV Kriteria3 x EV Alternatif1 kriteria3)</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<ul>
+<li><code>EV Elizabeth = (0,137 x 0,229) + (0,624 x 0,624) + (0,239 x 0,163) = 0,459</code></li>
+<li><code>EV Sophie Martin = (0,137 x 0,122) + ( 0,624 x 0,239) + (0,239 x 0,297) = 0,237</code></li>
+<li><code>EV Charles&amp;Keith = (0,137 x 0,648) + (0,624 x 0,137) + (0,239 x 0,539) = 0,303</code></li>
+</ul>
+<p>Hasil yang didapat:</p>
+<ol>
+<li><strong>Elizabeth dengan hasil 0,459</strong>.</li>
+<li><strong>Charles &amp; Keith dengan hasil 0,303</strong>.</li>
+<li><strong>Sophie Martin dengan hasil 0,237</strong>.</li>
+</ol>
+<p><a href="https://docs.google.com/spreadsheets/d/1D5LSTJ9nzV1Dj174XbVkNyfwCMDxP7xN/edit?usp=sharing&amp;ouid=104275818632620058936&amp;rtpof=true&amp;sd=true" target="_blank" rel="noopener noreferrer">Kunjungi Berkas Excel</a></p>]]></content>
         <author>
             <name>Muhamad Khadaffy</name>
             <uri>https://github.com/reighpuy</uri>

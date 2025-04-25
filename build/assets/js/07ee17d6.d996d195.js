@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6800],{5493:t=>{t.exports=JSON.parse('{"tag":{"label":"tugas","permalink":"/tags/tugas","allTagsPath":"/tags","count":4,"unlisted":false},"listMetadata":{"permalink":"/tags/tugas","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

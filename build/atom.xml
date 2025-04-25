@@ -2,22 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mkh.netlify.app/</id>
     <title>MKH Blog</title>
-    <updated>2025-04-22T00:00:00.000Z</updated>
+    <updated>2025-04-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mkh.netlify.app/"/>
     <subtitle>MKH Blog</subtitle>
     <icon>https://mkh.netlify.app/img/hwang-yeji.jpg</icon>
     <entry>
-        <title type="html"><![CDATA[Tugas SPK ke-4]]></title>
-        <id>https://mkh.netlify.app/tugas-spk-w4</id>
-        <link href="https://mkh.netlify.app/tugas-spk-w4"/>
+        <title type="html"><![CDATA[Tugas SPK P1]]></title>
+        <id>https://mkh.netlify.app/tugas-spk-p1</id>
+        <link href="https://mkh.netlify.app/tugas-spk-p1"/>
+        <updated>2025-04-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Berikut adalah hasil dari pengerjaan tugas pertemuan 1 pada matakuliah Sistem Penunjang Keputusan oleh Muhamad Khadaffy.]]></summary>
+        <content type="html"><![CDATA[<p>Berikut adalah hasil dari pengerjaan <code>tugas pertemuan 1</code> pada matakuliah <strong>Sistem Penunjang Keputusan</strong> oleh Muhamad Khadaffy.</p>
+<p><img decoding="async" loading="lazy" alt="Tugas P1-1" src="https://mkh.netlify.app/assets/images/Tugas%20P1-8f78f0a3074dfa87a5deb91cded97284.jpg" width="850" height="1169" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Tugas P1-2" src="https://mkh.netlify.app/assets/images/Tugas%20P1-2-48e1a0980fb92e0809c322c543f9c770.jpg" width="850" height="1169" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Muhamad Khadaffy</name>
+            <uri>https://github.com/reighpuy</uri>
+        </author>
+        <category label="spk" term="spk"/>
+        <category label="tugas" term="tugas"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tugas SPK P2]]></title>
+        <id>https://mkh.netlify.app/tugas-spk-p2</id>
+        <link href="https://mkh.netlify.app/tugas-spk-p2"/>
+        <updated>2025-04-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Berikut adalah hasil dari pengerjaan tugas pertemuan 2 pada matakuliah Sistem Penunjang Keputusan oleh Muhamad Khadaffy.]]></summary>
+        <content type="html"><![CDATA[<p>Berikut adalah hasil dari pengerjaan <code>tugas pertemuan 2</code> pada matakuliah <strong>Sistem Penunjang Keputusan</strong> oleh Muhamad Khadaffy.</p>
+<p><img decoding="async" loading="lazy" alt="Tugas P2-1" src="https://mkh.netlify.app/assets/images/Tugas%20P2-1048c70026a9f0ff18323d622987ebcb.jpg" width="850" height="1169" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Tugas P2-2" src="https://mkh.netlify.app/assets/images/Tugas%20P2-2-73c4bd7bde7b2e3c2303211870a2c665.jpg" width="850" height="1169" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Muhamad Khadaffy</name>
+            <uri>https://github.com/reighpuy</uri>
+        </author>
+        <category label="spk" term="spk"/>
+        <category label="tugas" term="tugas"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tugas SPK P3]]></title>
+        <id>https://mkh.netlify.app/tugas-spk-p3</id>
+        <link href="https://mkh.netlify.app/tugas-spk-p3"/>
+        <updated>2025-04-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Berikut adalah hasil dari pengerjaan tugas pertemuan 3 pada matakuliah Sistem Penunjang Keputusan oleh Muhamad Khadaffy.]]></summary>
+        <content type="html"><![CDATA[<p>Berikut adalah hasil dari pengerjaan <code>tugas pertemuan 3</code> pada matakuliah <strong>Sistem Penunjang Keputusan</strong> oleh Muhamad Khadaffy.</p>
+<p><img decoding="async" loading="lazy" alt="Tugas P3-1" src="https://mkh.netlify.app/assets/images/Tugas%20P3-138b76f7045634508d7256eae7fef5f8.jpg" width="850" height="1169" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Tugas P3-2" src="https://mkh.netlify.app/assets/images/Tugas%20P3-2-78a73acd5f05ec50dcae7583c58c2e43.jpg" width="850" height="1169" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Tugas P3-3" src="https://mkh.netlify.app/assets/images/Tugas%20P3-3-dc242f14077d4022426360c045eb3a5c.jpg" width="850" height="1169" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Tugas P3-4" src="https://mkh.netlify.app/assets/images/Tugas%20P3-4-1848a24794fef5a94183e86650990848.jpg" width="850" height="1169" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Muhamad Khadaffy</name>
+            <uri>https://github.com/reighpuy</uri>
+        </author>
+        <category label="spk" term="spk"/>
+        <category label="tugas" term="tugas"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tugas SPK P4]]></title>
+        <id>https://mkh.netlify.app/tugas-spk-p4</id>
+        <link href="https://mkh.netlify.app/tugas-spk-p4"/>
         <updated>2025-04-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Soal Nomor 1]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="soal-nomor-1">Soal Nomor 1<a href="https://mkh.netlify.app/tugas-spk-w4#soal-nomor-1" class="hash-link" aria-label="Direct link to Soal Nomor 1" title="Direct link to Soal Nomor 1">​</a></h2>
+        <summary type="html"><![CDATA[Berikut adalah hasil dari pengerjaan Tugas Pertemuan 4 pada matakuliah Sistem Penunjang Keputusan oleh Kelompok 2 - kelas 19.6A.01.]]></summary>
+        <content type="html"><![CDATA[<p>Berikut adalah hasil dari pengerjaan <code>Tugas Pertemuan 4</code> pada matakuliah <code>Sistem Penunjang Keputusan</code> oleh <strong>Kelompok 2 - kelas 19.6A.01</strong>.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="soal-nomor-1">Soal Nomor 1<a href="https://mkh.netlify.app/tugas-spk-p4#soal-nomor-1" class="hash-link" aria-label="Direct link to Soal Nomor 1" title="Direct link to Soal Nomor 1">​</a></h2>
 <p>Adi berulang tahun yang ke-17, Kedua orang tuanya janji untuk membelikan sepeda motor sesuai yang di inginkan Adi. Adi memiliki pilihan yaitu motor Ninja, Tiger dan Vixsion . Adi memiliki Kriteria dalam pemilihan sepeda motor yang nantinya akan dia beli yaitu : sepeda motornya memiliki desain yang bagus, berkualitas serta irit dalam bahan bakar.</p>
 <p>(Kerjakan kasus diatas dengan menggunakan metode AHP (Analytic Hierarchical Proces) dengan Batasan kriteria).</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="penyelesaian-soal-nomor-1">Penyelesaian Soal Nomor 1<a href="https://mkh.netlify.app/tugas-spk-w4#penyelesaian-soal-nomor-1" class="hash-link" aria-label="Direct link to Penyelesaian Soal Nomor 1" title="Direct link to Penyelesaian Soal Nomor 1">​</a></h3>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="tahap-pertama">Tahap Pertama<a href="https://mkh.netlify.app/tugas-spk-w4#tahap-pertama" class="hash-link" aria-label="Direct link to Tahap Pertama" title="Direct link to Tahap Pertama">​</a></h4>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="penyelesaian-soal-nomor-1">Penyelesaian Soal Nomor 1<a href="https://mkh.netlify.app/tugas-spk-p4#penyelesaian-soal-nomor-1" class="hash-link" aria-label="Direct link to Penyelesaian Soal Nomor 1" title="Direct link to Penyelesaian Soal Nomor 1">​</a></h3>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="tahap-pertama">Tahap Pertama<a href="https://mkh.netlify.app/tugas-spk-p4#tahap-pertama" class="hash-link" aria-label="Direct link to Tahap Pertama" title="Direct link to Tahap Pertama">​</a></h4>
 <p>Menentukan bobot dari masing-masing kriteria:</p>
 <ul>
 <li>Desain lebih penting <code>2 kali</code> dari pada Irit.</li>
@@ -29,7 +80,7 @@
 <p>Dari tabel diatas, Priority Vector (kolom paling kanan) menunjukan bobot dari masing-masing
 kriteria, jadi dalam hal ini Desain merupakan bobot tertinggi/terpenting menurut Adi, disusul Irit dan
 yang terakhir adalah Kualitas.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="langkah-pengerjaan-tabel">Langkah Pengerjaan Tabel<a href="https://mkh.netlify.app/tugas-spk-w4#langkah-pengerjaan-tabel" class="hash-link" aria-label="Direct link to Langkah Pengerjaan Tabel" title="Direct link to Langkah Pengerjaan Tabel">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="langkah-pengerjaan-tabel">Langkah Pengerjaan Tabel<a href="https://mkh.netlify.app/tugas-spk-p4#langkah-pengerjaan-tabel" class="hash-link" aria-label="Direct link to Langkah Pengerjaan Tabel" title="Direct link to Langkah Pengerjaan Tabel">​</a></h3>
 <ol>
 <li>
 <p>Untuk perbandingan antara masing – masing kriteria berasal dari bobot yang telah di berikan Adi pertama kali.</p>
@@ -55,7 +106,7 @@ yang terakhir adalah Kualitas.</p>
 <p>Jadi untuk <code>n=3</code>, <strong>RI=0.58</strong>. Jika hasil perhitungan CR lebih kecil atau sama dengan <code>10%</code>, ketidak konsistenan masih bisa diterima, sebaliknya jika lebih besar dari <code>10%</code>, tidak bisa diterima.</p>
 </li>
 </ol>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="tahap-kedua">Tahap Kedua<a href="https://mkh.netlify.app/tugas-spk-w4#tahap-kedua" class="hash-link" aria-label="Direct link to Tahap Kedua" title="Direct link to Tahap Kedua">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="tahap-kedua">Tahap Kedua<a href="https://mkh.netlify.app/tugas-spk-p4#tahap-kedua" class="hash-link" aria-label="Direct link to Tahap Kedua" title="Direct link to Tahap Kedua">​</a></h4>
 <p>Kebetulan teman Adi memiliki teman yang memiliki motor yang sesuai dengan pilihan Adi. Setelah Adi mencoba motor temannya tersebut Adi memberikan penilaian (disebut dengan <strong>Pair-wire Comparation</strong>)</p>
 <hr>
 <ul>
@@ -86,17 +137,17 @@ yang terakhir adalah Kualitas.</p>
 <table><thead><tr><th>Desain</th><th>Ninja</th><th>Tiger</th><th>Vixsion</th><th>Priority Vector</th></tr></thead><tbody><tr><td>Ninja</td><td>1</td><td>4</td><td>3</td><td>0,6233</td></tr><tr><td>Tiger</td><td>0,25</td><td>1</td><td>0,5</td><td>0,1373</td></tr><tr><td>Vixsion</td><td>0,333</td><td>2</td><td>1</td><td>0,2394</td></tr><tr><td>Jumlah</td><td>1,583</td><td>7</td><td>4,5</td><td>1,0000</td></tr><tr><td>Principal Eigenvalue</td><td></td><td></td><td></td><td>3,025</td></tr><tr><td>Consistency Index (CI)</td><td></td><td></td><td></td><td>0,01</td></tr><tr><td>Consistency Ratio (CR)</td><td></td><td></td><td></td><td>2,2%</td></tr></tbody></table>
 <table><thead><tr><th>Irit</th><th>Ninja</th><th>Tiger</th><th>Vixsion</th><th>Priority Vector</th></tr></thead><tbody><tr><td>Ninja</td><td>1</td><td>0,333</td><td>0,25</td><td>0,1226</td></tr><tr><td>Tiger</td><td>3</td><td>1</td><td>0,5</td><td>0,3202</td></tr><tr><td>Vixsion</td><td>4</td><td>2</td><td>1</td><td>0,5572</td></tr><tr><td>Jumlah</td><td>8</td><td>3,333</td><td>1,75</td><td>1,0000</td></tr><tr><td>Principal Eigenvalue</td><td></td><td></td><td></td><td>3,023</td></tr><tr><td>Consistency Index (CI)</td><td></td><td></td><td></td><td>0,01</td></tr><tr><td>Consistency Ratio (CR)</td><td></td><td></td><td></td><td>2,0%</td></tr></tbody></table>
 <table><thead><tr><th>Kualitas</th><th>Ninja</th><th>Tiger</th><th>Vixsion</th><th>Priority Vector</th></tr></thead><tbody><tr><td>Ninja</td><td>1</td><td>3</td><td>5</td><td>0,6479</td></tr><tr><td>Tiger</td><td>1/3</td><td>1</td><td>2</td><td>0,2299</td></tr><tr><td>Vixsion</td><td>1/5</td><td>1/2</td><td>1</td><td>0,1222</td></tr><tr><td>Jumlah</td><td>1,533</td><td>4,5</td><td>8</td><td>1</td></tr><tr><td>Principal Eigenvalue</td><td></td><td></td><td></td><td>3,0054</td></tr><tr><td>Consistency Index (CI)</td><td></td><td></td><td></td><td>0,0027</td></tr><tr><td>Consistency Ratio (CR)</td><td></td><td></td><td></td><td>0,0465%</td></tr></tbody></table>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="tahap-ketiga">Tahap Ketiga<a href="https://mkh.netlify.app/tugas-spk-w4#tahap-ketiga" class="hash-link" aria-label="Direct link to Tahap Ketiga" title="Direct link to Tahap Ketiga">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="tahap-ketiga">Tahap Ketiga<a href="https://mkh.netlify.app/tugas-spk-p4#tahap-ketiga" class="hash-link" aria-label="Direct link to Tahap Ketiga" title="Direct link to Tahap Ketiga">​</a></h4>
 <p>Setelah mendapatkan bobot untuk ketiga kriteria dan skor untuk masing-masing kriteria bagi ketiga motor pilihannya, maka langkah terakhir adalah menghitung total skor untuk ketiga motor tersebut. Untuk itu Adi akan merangkum semua hasil penilaiannya tersebut dalam bentuk tabel yang disebut <code>Overall Composite Weight</code>.</p>
 <table><thead><tr><th>Overall composite weight</th><th>weight</th><th>Ninja</th><th>Tiger</th><th>Vixsion</th></tr></thead><tbody><tr><td>Desain</td><td>0,5455</td><td>0,6233</td><td>0,1373</td><td>0,2394</td></tr><tr><td>Irit</td><td>0,2727</td><td>0,1226</td><td>0,3202</td><td>0,5572</td></tr><tr><td>Kualitas</td><td>0,1818</td><td>0,0090</td><td>0,9009</td><td>0,0901</td></tr><tr><td>Composite Weight</td><td></td><td>0,3751</td><td>0,3260</td><td>0,2989</td></tr></tbody></table>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="cara-pengerjaan-overall-composite-weight">Cara pengerjaan Overall Composite weight<a href="https://mkh.netlify.app/tugas-spk-w4#cara-pengerjaan-overall-composite-weight" class="hash-link" aria-label="Direct link to Cara pengerjaan Overall Composite weight" title="Direct link to Cara pengerjaan Overall Composite weight">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="cara-pengerjaan-overall-composite-weight">Cara pengerjaan Overall Composite weight<a href="https://mkh.netlify.app/tugas-spk-p4#cara-pengerjaan-overall-composite-weight" class="hash-link" aria-label="Direct link to Cara pengerjaan Overall Composite weight" title="Direct link to Cara pengerjaan Overall Composite weight">​</a></h3>
 <ul>
 <li>Kolom <code>Weight</code> diambil dari kolom <code>Priority Vector</code> dalam matrix <code>Kriteria</code>.</li>
 <li>Ketiga kolom lainnya (<code>Ninja</code>, <code>Tiger</code> dan <code>Vixsion</code>) diambil dari kolom <code>Priority Vector</code> ketiga matrix <code>Desain</code>, <code>Irit</code> dan <code>Kualitas</code>.</li>
 <li>Baris <code>Composite Weight</code> diperoleh dari jumlah hasil perkalian sel diatasnya dengan <code>weight</code>.</li>
 <li>Berdasarkan table di atas maka dapat di ambil kesimpulan bahwa yang memiliki skor paling tinggi adalah <strong>Ninja</strong> yaitu <code>0,3751</code>, disusul <strong>Tiger</strong> dengan skor <code>0,3260</code> dan yang terakhir adalah <strong>Vixsion</strong> dengan skor <code>0,2989</code>. Sehingga motor yang akan dibeli Adi adalah <strong>Ninja</strong>.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="soal-nomor-2">Soal Nomor 2<a href="https://mkh.netlify.app/tugas-spk-w4#soal-nomor-2" class="hash-link" aria-label="Direct link to Soal Nomor 2" title="Direct link to Soal Nomor 2">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="soal-nomor-2">Soal Nomor 2<a href="https://mkh.netlify.app/tugas-spk-p4#soal-nomor-2" class="hash-link" aria-label="Direct link to Soal Nomor 2" title="Direct link to Soal Nomor 2">​</a></h2>
 <p>Terdapat suatu permasalahan dalam menentukan pemilihan tas wanita dengan 3 kriteria yaitu:</p>
 <ol>
 <li>Harga (merk).</li>
@@ -135,36 +186,36 @@ yang terakhir adalah Kualitas.</p>
 <li>Kualitas Elizabeth <code>2x lebih bagus</code> dari Sophie Martin.</li>
 </ol>
 <p>Dari kasus diatas, tentukan pemilihan sepatu yang paling diminati oleh pelanggan.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="penyelesaian-soal-nomor-2">Penyelesaian Soal Nomor 2<a href="https://mkh.netlify.app/tugas-spk-w4#penyelesaian-soal-nomor-2" class="hash-link" aria-label="Direct link to Penyelesaian Soal Nomor 2" title="Direct link to Penyelesaian Soal Nomor 2">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="penyelesaian-soal-nomor-2">Penyelesaian Soal Nomor 2<a href="https://mkh.netlify.app/tugas-spk-p4#penyelesaian-soal-nomor-2" class="hash-link" aria-label="Direct link to Penyelesaian Soal Nomor 2" title="Direct link to Penyelesaian Soal Nomor 2">​</a></h3>
 <ol>
 <li><code>Model 4x</code> lebih penting dari pada Harga.</li>
 <li><code>Model 3x</code> lebih penting dari pada Kualitas.</li>
 <li><code>Kualitas 2x</code> lebih penting dari Harga.
-<img decoding="async" loading="lazy" src="https://media.discordapp.net/attachments/1231244153971539996/1364455798813491292/tabel-1.png?ex=6809bbfc&amp;is=68086a7c&amp;hm=3e8d2b6db976a15ea3eaade30867196dfa385c98b4db23d59aa254d4ca902187&amp;=&amp;format=webp&amp;quality=lossless" alt="Tabel-1" class="img_ev3q"></li>
+<img decoding="async" loading="lazy" alt="Tabel-1" src="https://mkh.netlify.app/assets/images/tabel-1-9531cb76c11fbb767c8bb6c9fe113c50.png" width="731" height="389" class="img_ev3q"></li>
 </ol>
 <p>Di lihat dari kriteria harga:</p>
 <ol>
 <li>Harga Charles &amp; keith <code>5x lebih tinggi</code> dari Sophie martin.</li>
 <li>Harga Charles &amp; keith <code>3x lebih tinggi</code> dari Elizabeth.</li>
 <li>Harga Elizabeth <code>2x lebih tinggi</code> dari Sophie Martin.
-<img decoding="async" loading="lazy" src="https://media.discordapp.net/attachments/1231244153971539996/1364455798431813652/tabel-2.png?ex=6809bbfc&amp;is=68086a7c&amp;hm=eff864ed161450441ec68435d98bc35795e19ca3fdf4c6703668fc83de7e0d96&amp;=&amp;format=webp&amp;quality=lossless" alt="Tabel-2" class="img_ev3q"></li>
+<img decoding="async" loading="lazy" alt="Tabel-2" src="https://mkh.netlify.app/assets/images/tabel-2-14899495c087b434dcda8350a809cd1f.png" width="728" height="407" class="img_ev3q"></li>
 </ol>
 <p>Di lihat dari kriteria model:</p>
 <ol>
 <li>Desain Charles &amp; keith <code>4x lebih elegan</code> dari Sophie Martin.</li>
 <li>Desain Charles &amp; keith <code>3x lebih elegan</code> dari Elizabeth.</li>
 <li>Desain Elizabeth <code>2x lebih elegan</code> dari Sophie Martin.
-<img decoding="async" loading="lazy" src="https://media.discordapp.net/attachments/1231244153971539996/1364455798196928543/tabel-3.png?ex=6809bbfc&amp;is=68086a7c&amp;hm=cb5b03b9334b1fa5589478ba8f0a5504325360c43a16d0341683528c513a8657&amp;=&amp;format=webp&amp;quality=lossless" alt="Tabel-3" class="img_ev3q"></li>
+<img decoding="async" loading="lazy" alt="Tabel-3" src="https://mkh.netlify.app/assets/images/tabel-3-06c293562ba3e998de2dcc10e0d4d360.png" width="727" height="407" class="img_ev3q"></li>
 </ol>
 <p>Di lihat dari kriteria Kualitas:</p>
 <ol>
 <li>Kualitas Charles &amp; keith <code>3x lebih bagus</code> dari Sophie Martin.</li>
 <li>Kualitas Charles &amp; keith <code>2x lebih bagus</code> dari Elizabeth.</li>
 <li>Kualitas Elizabeth <code>2x lebih bagus</code> dari Sophie Martin.
-<img decoding="async" loading="lazy" src="https://media.discordapp.net/attachments/1231244153971539996/1364455797945401434/tabel-4.png?ex=6809bbfc&amp;is=68086a7c&amp;hm=115a93c6eed7ca2e1dcffae1bd2df7c2810a7cd2f81e56365189d6dd8692a9f0&amp;=&amp;format=webp&amp;quality=lossless" alt="Tabel-4" class="img_ev3q"></li>
+<img decoding="async" loading="lazy" alt="Tabel-4" src="https://mkh.netlify.app/assets/images/tabel-4-bc725fd99a2d95f9a2476d7f4b5efb63.png" width="729" height="407" class="img_ev3q"></li>
 </ol>
 <p>Berikut adalah pohon dengan bobot pada kriteria dan alternatifnya:
-<img decoding="async" loading="lazy" src="https://media.discordapp.net/attachments/1231244153971539996/1364455797727432754/chart.png?ex=6809bbfc&amp;is=68086a7c&amp;hm=2f83c67cfcbf570ed450b781eaea6d0b8911f052302657962a55ff6f6020a995&amp;=&amp;format=webp&amp;quality=lossless" alt="Bobot" class="img_ev3q"></p>
+<img decoding="async" loading="lazy" alt="Bobot" src="https://mkh.netlify.app/assets/images/chart-9a9a46324a4e88c09ca5c1b6938cd30f.png" width="667" height="445" class="img_ev3q"></p>
 <p>Tahap terakhir menentukan urutan pada pilihan alternatif dengan cara:</p>
 <div class="language-html codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-html codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">EV Alternatif1 = (EV Kriteria1 x EV Alternatif1 kriteria1) + (EV Kriteria2 x EV</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Alternatif1 kriteria2) + (EV Kriteria3 x EV Alternatif1 kriteria3)</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 <ul>
@@ -178,7 +229,7 @@ yang terakhir adalah Kualitas.</p>
 <li><strong>Charles &amp; Keith dengan hasil 0,303</strong>.</li>
 <li><strong>Sophie Martin dengan hasil 0,237</strong>.</li>
 </ol>
-<p><a href="https://docs.google.com/spreadsheets/d/1D5LSTJ9nzV1Dj174XbVkNyfwCMDxP7xN/edit?usp=sharing&amp;ouid=104275818632620058936&amp;rtpof=true&amp;sd=true" target="_blank" rel="noopener noreferrer">Kunjungi Berkas Excel</a></p>]]></content>
+<a href="https://docs.google.com/spreadsheets/d/1D5LSTJ9nzV1Dj174XbVkNyfwCMDxP7xN/edit?usp=sharing&amp;ouid=104275818632620058936&amp;rtpof=true&amp;sd=true" target="_blank"><strong>Kunjungi Berkas Excel</strong></a>]]></content>
         <author>
             <name>Muhamad Khadaffy</name>
             <uri>https://github.com/reighpuy</uri>
@@ -200,6 +251,7 @@ yang terakhir adalah Kualitas.</p>
             <uri>https://github.com/reighpuy</uri>
         </author>
         <category label="spk" term="spk"/>
+        <category label="tugas" term="tugas"/>
         <category label="ahp" term="ahp"/>
     </entry>
     <entry>
